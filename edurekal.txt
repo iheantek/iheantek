@@ -1,0 +1,6 @@
+s This is new, but I want to leanr how to navigate in and out of the vi code.
+
+:w
+:q
+:wq
+
