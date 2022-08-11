@@ -1,6 +1,4 @@
-s This is new, but I want to leanr how to navigate in and out of the vi code.
+s This is new, but I want to learn how to navigate in and out of the vi code.
+I am getting about it gradually.
 
-:w
-:q
-:wq
 
